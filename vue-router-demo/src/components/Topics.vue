@@ -1,0 +1,14 @@
+<template>
+  <div>
+    <h1>话题</h1>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "topics"
+};
+</script>
+
+<style>
+</style>

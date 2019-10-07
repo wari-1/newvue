@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "12",
+      "title": "ipad mini",
+      "price": 12,
+      "inventory": 7
+    },
+    {
+      "id": "12333",
+      "title": "BV coat",
+      "price": 110.88,
+      "inventory": 5
+    },
+    {
+      "id": "123322343",
+      "title": "nova5",
+      "price": 38.99,
+      "inventory": 10
+    },
+    {
+      "id": "1233wssd22343",
+      "title": "adidasneo T恤",
+      "price": 5.55,
+      "inventory": 20
+    }
+  ],
+  "cart": {
+    "productByIds": [
+      "12333",
+      "123322343",
+      "1233wssd22343"
+    ],
+    "quantityById": {
+      "12333": 5,
+      "123322343": 10,
+      "1233wssd22343": 3
+    }
+  }
+}
